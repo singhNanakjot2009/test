@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
 <body style= "background-color:rgb(150, 300, 200)">
-<nav style="background-color: black; top:0px; left:0px; width: 100%; height: 50px; opacity: 80%; color: white; display: flex; justify-content: space-around; align-items:center; boxsizing: border-box; position: fixed;">
+<nav class="desk">
 <div class="heading">
 <h1>Nanakjot's Show- Website</h1>
 </div>
